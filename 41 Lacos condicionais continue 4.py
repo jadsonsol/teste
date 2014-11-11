@@ -3,7 +3,7 @@
 print("Antes")
 print()
 print("inicio")
-print("inicio2")
+print("inicio3")
 i = 0
 while(i<10):
     i += 1
